@@ -6,9 +6,9 @@ color:
   saturation: 0.914327084319666
   rhythmicContrast: 0.45858080754987895
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: next line
