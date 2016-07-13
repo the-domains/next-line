@@ -1,4 +1,3 @@
-layout_spectrum: 0.8201310141012073
 typography_spectrum: 0.14153897622600198
 color:
   brandStrength: 0.9262239255476743
@@ -6,9 +5,16 @@ color:
   saturation: 0.914327084319666
   rhythmicContrast: 0.45858080754987895
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-name: next line
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.8201310141012073
+author:
+  name: Gleb Toropov
+  email: gleb@fortywinks.com
+  url: www.fortywinks.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b41a44f-399d-4ee0-bf17-d5e69a19f96e.png
+name: Forty Winks
